@@ -8,4 +8,5 @@
 
 
 **Intermediate ML**
+<br>
 Day 11, 12 : Housing price prediction, missing value treatment(mean, median, mode, adding true/false column for missing values) using simple imputer. Categorical variables treatment.
