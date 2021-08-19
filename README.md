@@ -10,3 +10,5 @@
 **Intermediate ML**
 <br>
 Day 11, 12 : Housing price prediction, missing value treatment(mean, median, mode, adding true/false column for missing values) using simple imputer. Categorical variables treatment.
+
+Day 13 : Pipelines, Cross-Validation : Optimise code using pipelines for pre-processing and modelling and use cross-validation to get average model errors and for hyper-parameter tuning: choosing best n_estimators for random forest model
